@@ -47,11 +47,11 @@ const NavBar = () => {
           }}
         />
       </Navbar.Brand>
-      <Nav className="">
+      <Nav className="me-5">
         <Nav.Link
           id="inicio-link"
           onClick={() => handleNavLinkClick("inicio")}
-          className="nav-link"
+          className="nav-link "
           style={{ color: "#E3B155" }}
         >
           Inicio
