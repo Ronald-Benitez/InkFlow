@@ -54,7 +54,7 @@ const About = () => {
       </div>
 
       <div className="row d-flex justify-content-center">
-        <div className="col-4">
+        <div className="col-12 col-md-4 col-sm-8">
           <h2 style={{ color: "#27242A" }} className="text-center m-4">
             Misión
           </h2>
@@ -72,7 +72,7 @@ const About = () => {
             consecuencia.
           </p>
         </div>
-        <div className="col-4">
+        <div className="col-12 col-md-4 col-sm-8">
           <h2 style={{ color: "#27242A" }} className="text-center m-4">
             Visión
           </h2>
