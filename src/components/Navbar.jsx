@@ -39,7 +39,7 @@ const NavBar = () => {
     >
       <Navbar.Brand href="#" className="p-2">
         <img
-          src="/logoDark.png"
+          src="/navlogo.png"
           alt="InkFlow Services Logo"
           className="logo-image"
           style={{
