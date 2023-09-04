@@ -16,12 +16,12 @@ const HomePage = () => {
       <Row className="d-flex justify-content-center align-items-center">
         <Col md={6} className="text-center">
           <img
-            src="/logo2.svg"
+            src="/logobase.png"
             alt="InkFlow Services Logo"
             className="logo-image"
           />
           <p className="company-description mt-5">
-            Tu socio confiable en mantenimiento y preparación de equipos de
+            Tu socio confiable en mantenimiento y reparación de equipos de
             impresión. Con sede en San Miguel y alcance nacional.
           </p>
         </Col>
